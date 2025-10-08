@@ -1,0 +1,46 @@
+col span merged horizontally
+row span merges vertically
+
+practical :
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DAY 2</title>
+</head>
+<body>
+<center><p><em>A table with merged cells</em></p></center>
+    <center><Table border="2" width="50%" height="150" cellspacing="0" style="text-align: center;">
+        <TR>
+            <td rowspan="2"></td>
+            <td colspan="2"><strong>Average</strong></td>
+            <td rowspan="2"><strong>Red eyes</strong></td>
+        </TR>
+
+        <tr>
+            <th>height</th>
+            <th>weight</th>
+        </tr>
+
+        <tr>
+            <td><strong>Males</strong></td>
+            <td>1.9</td>
+            <td>0.003</td>
+            <td>40%</td>
+        </tr>
+        <tr>
+            <td><strong>Females</strong></td>
+            <td>1.7</td>
+            <td>0.002</td>
+            <td>43%</td>
+        </tr>        
+    </Table></center>
+    
+</body>
+</html>
+
+for taking full page capture: Go Full Page chrome extension
+
+icet.sharadha@gmail.com
