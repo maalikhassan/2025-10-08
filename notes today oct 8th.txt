@@ -74,3 +74,8 @@ while absolute is from a starting point, gemerally root.
 
 fixed = like whatsapp
 stcky= moves with and sticks after
+
+==========================
+
+bootstrap - best to use by downloading locally - as incase they udate or change in servers, itll affect ours without knowing
+CDN - is bascially accessing the same bootstrap style sheet but from their bootstrap servers
