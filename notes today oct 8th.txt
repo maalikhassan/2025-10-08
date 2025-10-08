@@ -86,7 +86,13 @@ github deploy/ host:
 go to repo > settings> pages> choose branch as main> save
 
 done,, it will build after that, prorress can be seen in actions.
-
+==============================================================================
 VSCODE itself has terminal , and gitbash as terminal in its dropdown
 
 whenever we make any changes and push, it automatically redeploys with updates behind the scene
+
+============================================================================
+To download code into device (aside from download zip)>
+ create foldeer in PC > open gitbash > git clone "githublink"> enter
+
+ after that can make changes and commit and push
