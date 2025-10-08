@@ -44,3 +44,33 @@ practical :
 for taking full page capture: Go Full Page chrome extension
 
 icet.sharadha@gmail.com
+======================
+git commands:
+
+=============================
+
+css background image:
+body{
+    background-image: url('assets/img/wallpaperflare.com_wallpaper\ \(26\).jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: white;
+    opacity: 0.7;
+}
+
+=============================
+
+google fonts:
+google search google fonts, select one, clck on web, import , past to top of csss, and then get the  css code from site and paste into css
+
+==============================
+
+Relative vs absolute
+
+saapekshawa , relative to ones current stading or position
+while absolute is from a starting point, gemerally root.
+
+fixed = like whatsapp
+stcky= moves with and sticks after
